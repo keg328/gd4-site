@@ -184,6 +184,6 @@ footer {
     position:1000;
   }
   
-  footer .logo {
-    margin-top:15px;
-    font-size: 2em !important; }
+ footer .logo{
+     width:100%;}
+ 
