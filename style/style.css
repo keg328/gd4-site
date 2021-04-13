@@ -186,4 +186,10 @@ footer {
   
  footer .logo{
      width:100%;}
+
+     .navbar{
+       color:white;
+       text-decoration: none;
+       padding-bottom: 25px;
+     }
  
