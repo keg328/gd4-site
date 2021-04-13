@@ -78,7 +78,7 @@ header{
   
   
   nav a:hover{
-  color:black;
+  color:#E79D5C;
   }
   
   .nav-toggle-label{
@@ -142,7 +142,7 @@ header{
     content:"";
     display:block;
     height: 5px;
-    background:black;
+    background:#E79D5C;
     position:absolute;
     top:-.5em;
     left:0;
