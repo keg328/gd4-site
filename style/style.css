@@ -1,5 +1,5 @@
 header{
-    background: #A4BCC3;
+    background: #353160;
     padding:10px;
     text-align:center;
     position:fixed;
@@ -38,7 +38,7 @@ header{
     text-align:left;
     top:100%;
     left:0;
-    background:#A4BCC3;
+    background:#353160;
     width:100%;
    transform: scale(1,0);
     transition: transform 400ms ease-out;
@@ -178,7 +178,7 @@ body{
 
 footer {
     height: 40vh;
-    background:#A4BCC3;
+    background:#353160;
     width:100%;
     display:flex;
     position:1000;
