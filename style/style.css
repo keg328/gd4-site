@@ -5,6 +5,7 @@ header{
     position:fixed;
     width:100%;
     z-index: 1000;
+    display:flex;
   }
 
   .hero-container img{
@@ -190,6 +191,5 @@ footer {
      .navbar{
        color:white;
        text-decoration: none;
-       margin-bottom: 20px ;
-     }
- 
+       margin-bottom: 20px ;}
+      
