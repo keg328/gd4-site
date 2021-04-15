@@ -20,7 +20,7 @@ header{
     width: 940px;
     margin-right: auto;
     margin-left: auto;
-    overflow: visible;
+    overflow: hidden;
     clear: both;
   }
   
@@ -35,7 +35,7 @@ header{
   
   
   nav{
-    position:absolute;
+    position:absolute ;
     text-align:left;
     top:100%;
     left:0;
