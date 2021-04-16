@@ -160,7 +160,7 @@ nav{
         
         /* 2 Columns */
         .columns_2 {
-          width: 460px;
+          width: 50% relative;
           float: left;
           margin-right: 20px;
         }
