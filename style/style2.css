@@ -265,7 +265,7 @@ nav{
 
           /*Images*/
           .columns_2 img{
-              width:50%;
+              width:460px;
               position:relative;
           }
           .hero-container{
@@ -273,7 +273,7 @@ nav{
             width:100%;
             margin-right: none;
             height: 600px;
-            background-image: url("/images/hero-img.jpg" alt="Hero Image") ;
+            background-image: url("/images/hero-img.jpg") ;
             background-size: cover;
             background-position-x: right;
             margin-left:none;
