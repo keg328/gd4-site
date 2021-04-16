@@ -285,7 +285,9 @@ nav{
                 float: left;
               }
               
-            
+            section{
+                padding:100px 0;
+            }
            .container {
             display: block;
             width: 940px;
