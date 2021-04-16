@@ -44,6 +44,7 @@ header{
    transform: scale(1,0);
     transition: transform 400ms ease-out;
     transform-origin:top;
+    font-family: 'Noko Sans KR', sans-serif;
   }
   
   nav ul{

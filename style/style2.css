@@ -30,6 +30,8 @@ nav{
    transform: scale(1,0);
     transition: transform 400ms ease-out;
     transform-origin:top;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 400 ;
   }
   
   nav ul{
