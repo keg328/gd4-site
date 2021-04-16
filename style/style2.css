@@ -245,24 +245,23 @@ nav{
              width: 100%;
              font-family: 'Noto Sans KR', sans-serif;
              position: absolute;
-             padding-top:250px;
+             padding-top:220px;
              z-index: 5;
              text-align: center;
              text-transform: none;
              color: white;
              font-size: 2em;
-             text-shadow: black 2px 2px;
             }
 
             h2{
                 font-size: 1.7em;
                  text-align: center;
                  margin-bottom:100px;
-                 font-family:'Rubik', sans-serif;
+                 font-family:'Noto Sans KR', sans-serif;
                } 
               
               h3{
-                font-family: 'Rubik', sans-serif;
+                font-family: 'Merriweather', serif;
                 font-weight: 200;
                 font-size: .7em;
                 margin-top: 10px;
