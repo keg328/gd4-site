@@ -1,5 +1,11 @@
+
+
 header{
     background: #353160;
+    padding:20px 0 20px 0;
+    top: 0;
+    left:0;
+    right: 0;
     position:fixed;
     width:100%;
     z-index: 1000;
@@ -146,3 +152,71 @@ nav{
       display:grid;
       grid-template-columns: 1fr auto minmax(600px, 3fr) 1fr;
     }
+   
+    *{
+        margin:0;
+        padding:0;
+        }
+        /* ------- [ Simple Grid ] ------- */
+        
+        /* 2 Columns */
+        .columns_2 {
+          width: 460px;
+          float: left;
+          margin-right: 20px;
+        }
+        
+        .columns_2:last-of-type {
+          margin-right: 0;
+        }
+        
+        /* 3 Columns */
+        .columns_3 {
+          width: 300px;
+          float: left;
+          margin-right: 20px;  
+          text-align: center;
+        }
+        
+          
+        .columns_3:last-of-type {
+          margin-right: 0;
+        }
+        
+        /* 4 Columns */
+        .columns_4 {
+          width: 220px;
+          float: left;
+          margin-right: 20px;
+        }
+        
+        .columns_4:last-of-type {
+          margin-right: 0;
+        }
+        
+        /* 6 Columns */
+        .columns_6 {
+          width: 140px;
+          float: left;
+          margin-right: 20px;
+        }
+        
+        .columns_6:last-of-type {
+          margin-right: 0;
+        }
+        
+        /* 12 Columns */
+        .columns_6 {
+          width: 60px;
+          float: left;
+          margin-right: 20px;
+        }
+        
+        .columns_12:last-of-type {
+          margin-right: 0;
+        }
+        .row{
+          margin-bottom:20px;
+          float:left;
+        }
+        
