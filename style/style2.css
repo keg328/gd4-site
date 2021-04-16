@@ -160,7 +160,7 @@ nav{
         
         /* 2 Columns */
         .columns_2 {
-          width: 50% relative;
+          width: 50% ;
           float: left;
           margin-right: 20px;
         }
@@ -230,7 +230,7 @@ nav{
          
           h1{
             width:100%;
-            font-family:'Signika', sans-serif;
+            font-family:'Noto Sans KR', sans-serif;
             text-transform: none;
             font-size:2em;
             text-align:center;
@@ -241,7 +241,7 @@ nav{
          
             .type-overlay h1{
              width: 100%;
-             font-family: 'Signika', sans-serif;
+             font-family: 'Noto Sans KR', sans-serif;
              position: absolute;
              padding-top:250px;
              z-index: 5;
@@ -259,4 +259,10 @@ nav{
             margin-left: auto;
             overflow: hidden;
             clear: both;
+          }
+
+          /*Images*/
+          .columns_2 img{
+              width:50%;
+              position:relative;
           }
