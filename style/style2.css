@@ -342,8 +342,10 @@ footer {
       
        #about, #posters, #contact{
         background-color: #f3e8d1;
+        color:#353160;
        }
 
        #outreach, #donate{
         background-color: #353160;
+        color:white;
        }
