@@ -340,3 +340,10 @@ footer {
        text-decoration: none;
        margin-bottom: 20px ;}
       
+       #about, #posters, #contact{
+        background-color: #f3e8d1;
+       }
+
+       #outreach, #donate{
+        background-color: #353160;
+       }
