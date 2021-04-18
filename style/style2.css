@@ -323,3 +323,20 @@ nav{
 button #home{
     margin-top: 40px;
 }
+
+footer {
+    height: 40vh;
+    background:#353160;
+    width:100%;
+    display:flex;
+    position:1000;
+  }
+  
+ footer .logo{
+     width:100%;}
+
+     .navbar{
+       color:white;
+       text-decoration: none;
+       margin-bottom: 20px ;}
+      
