@@ -330,6 +330,7 @@ footer {
     width:100%;
     display:flex;
     position:1000;
+    text-align: center;
   }
   
  footer .logo{
