@@ -325,10 +325,10 @@ button #home{
 }
 
 footer {
-    height: 22vh;
+    height: 30vh;
     background:#353160;
     width:100%;
-    display:flex;
+    display:block;
     position:1000;
     text-align: center;
   }
