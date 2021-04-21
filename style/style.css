@@ -364,7 +364,7 @@ footer {
       }
       
       .box{
-        padding: 10px;
+        
         
         border: none;
         text-align: center;
@@ -374,7 +374,7 @@ footer {
       
       .box2{
        height:40% !important;
-      
+       padding:10px;
         background:#E79D5C;
       }
       
