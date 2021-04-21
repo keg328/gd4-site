@@ -391,7 +391,8 @@ footer {
         line-height:1.4;
         color:#353160;
         padding-left: 20px;
-        padding-right: 20px
+        padding-right: 20px;
+        font-size: small;
       }
 
       button #donate{
