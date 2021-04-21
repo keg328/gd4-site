@@ -307,7 +307,7 @@ nav{
             width:100%;
             margin-right: none;
             height: 600px;
-            background-image: url("../images/hero-img.jpg") ;
+            background-image: url("/images/hero-img.jpg") ;
             background-size: cover;
             background-position-x: right;
             margin-left:none;
