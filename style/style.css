@@ -400,7 +400,7 @@ footer {
         font-size: 1em;
       }
 
-      #donate button {
+      #donate #button {
         border-radius:25px;
         background-color: #E79D5C;
         font-family: 'Noto Sans KR', sans-serif;
