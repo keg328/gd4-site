@@ -27,7 +27,7 @@ nav{
     left:0;
     background:#353160;
     width:100%;
-   transform: scale(1,0);
+    transform: scale(1,0);
     transition: transform 400ms ease-out;
     transform-origin:top;
 
@@ -307,7 +307,7 @@ nav{
             width:100%;
             margin-right: none;
             height: 600px;
-            background-image: url("/images/hero-img.jpg") ;
+            background-image: url("images/hero-img.jpg") ;
             background-size: cover;
             background-position-x: right;
             margin-left:none;
