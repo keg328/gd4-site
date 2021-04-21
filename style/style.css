@@ -361,30 +361,30 @@ footer {
         display: grid;
         grid-template-columns: 1fr 1fr 1fr ;
         gap: 10px;
-        margin-left: 50px;
+        margin-left: 40px;
         
       }
       
       .box{
         
-        width:300px;
+        width:200px;
         border: none;
         text-align: center;
         background-color:  white;
-        height:auto;
+        height:400px;
       }
       
       .box2{
-       height:40% !important;
-       padding:10px;
+       height:30% !important;
         background:#E79D5C;
-        width:300px;
+        width:auto;
+        
+      }
+      #donate h4{
+       
+        line-height:2.2;
       }
       
-      
-      .box h3{
-        margin:10px 0;
-      }
       
       .box p{
         margin-bottom:20px;
