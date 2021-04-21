@@ -390,8 +390,9 @@ footer {
         margin-bottom:20px;
         line-height:1.4;
         color:#353160;
-        padding-left: 20px;
-        padding-right: 20px;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-top:30px;
         font-size: small;
       }
 
@@ -399,5 +400,6 @@ footer {
         border-radius:25px;
         background-color: #E79D5C;
         font-family: 'Seb Neue', sans-serif;
+        padding: 20px;
      
       }
