@@ -269,7 +269,7 @@ nav{
               }
               
                h4{
-                 font-family: 'Rubik', sans-serif;
+                 font-family: 'Noto Sans KR', sans-serif;
                  font-weight: 700;
                  font-size: 1.2em;
                  margin:10px 0;
@@ -396,10 +396,10 @@ footer {
         font-size: small;
       }
 
-      button #donate{
+      #donate button {
         border-radius:25px;
         background-color: #E79D5C;
-        font-family: 'Seb Neue', sans-serif;
+        font-family: 'Noto Sans KR', sans-serif;
         padding: 20px;
      
       }
