@@ -353,3 +353,38 @@ footer {
         background-color: #353160;
         color:white;
        }
+
+     /*DONATE*/
+
+       .wrapper{
+        width:100%;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr ;
+        gap: 10px;
+      }
+      
+      .box{
+        padding: 10px;
+        width: 275px;
+        border: none;
+        text-align: center;
+        background-color:  white;
+        height:400px;
+      }
+      
+      .box img{
+        width: 295px;
+        height:40% !important;
+        margin-top: -10px;
+        margin-left: -10px;
+      }
+      
+      
+      .box h3{
+        margin:10px 0;
+      }
+      
+      .box p{
+        margin-bottom:20px;
+        line-height:1.4;
+      }
