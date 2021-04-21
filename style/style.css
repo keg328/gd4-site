@@ -359,17 +359,18 @@ footer {
      /*DONATE*/
 
        .wrapper{
-        width:100%;
+        
+        max-width:940px;
         display: grid;
         grid-template-columns: 1fr 1fr 1fr ;
         gap: 10px;
-        margin-left: 40px;
+        
         
       }
       
       .box{
         
-        width:200px;
+        width:300px;
         border: none;
         text-align: center;
         background-color:  white;
@@ -377,9 +378,10 @@ footer {
       }
       
       .box2{
-       height:30% !important;
+       height:30% ;
         background:#E79D5C;
         width:auto;
+        margin-top:-10px;
         
       }
       #donate h4{
@@ -395,7 +397,7 @@ footer {
         padding-left: 15px;
         padding-right: 15px;
         padding-top:30px;
-        font-size: small;
+        font-size: 1em;
       }
 
       #donate button {
@@ -405,3 +407,4 @@ footer {
         padding: 20px;
      
       }
+
