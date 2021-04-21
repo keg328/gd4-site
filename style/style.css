@@ -325,7 +325,8 @@ button #home{
     margin-top: 40px;
     position:sticky;
     font-family:'Noto Sans KR', sans-serif;
-    
+    border-radius:25px;
+    padding:20px;
 }
 
 footer {
