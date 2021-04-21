@@ -324,6 +324,7 @@ nav{
 button #home{
     margin-top: 40px;
     position:sticky;
+    font-family:'Noto Sans KR', sans-serif;
     
 }
 
