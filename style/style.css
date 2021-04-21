@@ -365,18 +365,17 @@ footer {
       
       .box{
         padding: 10px;
-        width: 275px;
+        
         border: none;
         text-align: center;
         background-color:  white;
-        height:400px;
+        height:auto;
       }
       
-      .box img{
-        width: 295px;
-        height:40% !important;
-        margin-top: -10px;
-        margin-left: -10px;
+      .box2{
+       height:40% !important;
+      
+        background:#E79D5C;
       }
       
       
