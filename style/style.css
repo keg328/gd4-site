@@ -323,6 +323,7 @@ nav{
 
 button #home{
     margin-top: 40px;
+    position:sticky;
 }
 
 footer {
