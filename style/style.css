@@ -322,8 +322,8 @@ nav{
          
 
 button #home{
-    margin-top: 40px;
-    position:sticky;
+    margin-top: 50%;
+    position:relative;
     font-family:'Noto Sans KR', sans-serif;
     border-radius:25px;
     padding:20px;
@@ -360,10 +360,10 @@ footer {
 
        .wrapper{
         
-        max-width:940px;
+        max-width:1000px;
         display: grid;
         grid-template-columns: 1fr 1fr 1fr ;
-        gap: 10px;
+        gap: 20px;
         
         
       }
@@ -408,6 +408,8 @@ footer {
         padding-bottom:15px;
         margin-left:20px;
         text-transform:uppercase;
+        width:100px;
+        height:30px;
       }
 
 #donate p{
