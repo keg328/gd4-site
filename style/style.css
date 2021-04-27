@@ -271,8 +271,9 @@ nav{
                h4{
                  font-family: 'Noto Sans KR', sans-serif;
                  font-weight: 700;
-                 font-size: 1.2em;
+                 font-size: 1.6em;
                  margin:10px 0;
+                line-height: 1.1;
                }
               
               body{
@@ -370,7 +371,8 @@ footer {
         max-width:1000px;
         display: grid;
         grid-template-columns: 1fr 1fr 1fr ;
-        gap: 20px;
+        gap: 10px;
+        width:1000px;
         
         
       }
@@ -416,7 +418,8 @@ footer {
         margin-left:20px;
         text-transform:uppercase;
         width:100px;
-        height:40px;
+        height:30px;
+        text-align:center;
       }
 
 #donate p{
