@@ -1,15 +1,7 @@
 html{
   scroll-behavior: smooth ;
 }
-/* Form */
 
-.center {
-  margin: auto; display:block; align-self: center;  color:white;
-  text-align:center; text-decoration: none; font-size:1em;}
-
-.hideform {
-  display: none;
-}
 
 header{
     background: #353160;
