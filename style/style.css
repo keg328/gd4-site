@@ -506,7 +506,7 @@ footer {
 }
 
 .closeBtn {
-    color: #ccc; /*change to white when adding the header and footer*/
+    color: black; /*change to white when adding the header and footer*/
     float: right;
     font-size: 30px;
 }
