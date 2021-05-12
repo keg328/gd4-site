@@ -467,7 +467,7 @@ footer {
     margin: 0;
 }
 .modal-header {
-    background: var(--primary-color);
+    background: var(#353160);
     padding: 15px;
     color: var(--secondary-color);
 }
@@ -492,7 +492,7 @@ footer {
 }
 
 .footer-button {
-  background: var(--primary-color);
+  background: var(#E75C5C);
   color: #fff;
   outline: none;
   padding: 15px;
@@ -506,7 +506,7 @@ footer {
 }
 
 .closeBtn {
-    color: black; /*change to white when adding the header and footer*/
+    color: white; /*change to white when adding the header and footer*/
     float: right;
     font-size: 30px;
 }
@@ -514,7 +514,7 @@ footer {
 
 .closeBtn:hover, 
 .closeBtn:focus {
-    color: #000;
+    color: #E75C5C;
     text-decoration: none;
     cursor: pointer;
 }
