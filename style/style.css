@@ -435,20 +435,8 @@ footer {
  
 }
 
-:root {
-  --primary-color: #3D5B81;
-  --secondary-color: #98C0D9;
-  --content-bg: #f4f4f4;
-}
 
-.button {
-    background: var(--primary-color);
-    padding: 1em 2em;
-    color: #fff;
-    border:0;
-    outline: none;
-    border-radius: 25px;
-}
+
 
 .button:hover {
     background: var(--secondary-color);
