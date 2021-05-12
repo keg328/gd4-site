@@ -491,19 +491,6 @@ footer {
     text-align: center;
 }
 
-.footer-button {
-  background: var(#E75C5C);
-  color: #fff;
-  outline: none;
-  padding: 15px;
-  border: none;
-  border-radius: 25px;
-}
-
-.footer-button:hover {
-  background: var(--content-bg);
-  color: var(--primary-color);
-}
 
 .closeBtn {
     color: white; 
