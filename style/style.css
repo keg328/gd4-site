@@ -486,7 +486,7 @@ footer {
 }
 
 .modal-footer {
-    background: var(--secondary-color);
+    background: var(#353160);
     padding: 15px;
     text-align: center;
 }
@@ -506,7 +506,7 @@ footer {
 }
 
 .closeBtn {
-    color: white; /*change to white when adding the header and footer*/
+    color: white; 
     float: right;
     font-size: 30px;
 }
